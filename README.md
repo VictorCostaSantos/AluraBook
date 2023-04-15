@@ -18,7 +18,7 @@ Nesse projeto foi desenvolvido o aluraBook, que é uma página estática que apr
   <h4 align="center" style = "color: #57b9ff;"> <b>Clique sobre a imagem para ir para o site </b>:eyes:  
   </h4>
 
-  <a  target="_blank" href = "https://alura-plus-sigma-olive.vercel.app/"><img  alt="Robotron" src="https://i.imgur.com/B3qIh4W.gif"></a>
+  <a  target="_blank" href = "https://alura-book-khaki.vercel.app/"><img  alt="Robotron" src="https://i.imgur.com/B3qIh4W.gif"></a>
 
 </hr>
   
